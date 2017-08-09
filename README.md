@@ -3,4 +3,4 @@ Contains folders and files, images, videos, spreadsheets, and data sets – anyt
 
 Hello,
 
-My name is Katherine. I'm learning how to code using HTML and CSS. Next I plan to lear Javascript. In the meantime, I'm learning how to use github.
+My name is Katherine. I'm learning how to code using HTML and CSS. Next I plan to learn Javascript. In the meantime, I'm learning how to use github.
